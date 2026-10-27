@@ -4,9 +4,9 @@
 
 > *[Hwang, Y.](mailto:youngeun.hwang2@mail.mcgill.ca), Vavassori, L., Bautin, P., Rodriguez-Cruces, R., Gaspar-Martinez, E., Cabalo, DG., Ngo, A., Smith, M., Leech, R., Coronado-Leija, R., Petit, L., Avesani, P., Sarubbo, S., Evans, AC., Concha, L., & [Bernhardt, BC](mailto:boris.bernhardt@mcgill.ca) (2026). Radial and tangential fiber components in human superficial white matter and their associations with macroscale function. ...*
 
-**DOI:** [TBD]()
+**DOI:** https://doi.org/10.64898/2026.10.02.756249
 
-**Preprint:** available at [TBD]()
+**Preprint:** available at [bioRxiv](https://doi.org/10.64898/2026.10.02.756249)
 
 **Data repository:** available at [OSF(3T)](https://osf.io/j532r/) and [OSF(7T)](https://osf.io/mhq3f/)
 
