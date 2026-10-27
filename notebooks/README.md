@@ -10,7 +10,9 @@
 | [`2-2_intensity-profiles_MRDS.ipynb`](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/2-2_intensity-profiles_MRDS.ipynb)                       | [FA and MD profile processing and visualization](#2-2-fa-and-md-profile-processing-and-visualization)  |
 | [`2-3_neuralcontext_cyto.ipynb`](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/2-3_neuralcontext_cyto.ipynb)                                                                       | [Laminar differentiation across SWM depths](#2-3-laminar-differentiation-across-swm-depths) |
 | [`3_validation_tractography.ipynb`](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/3_validation_tratography.ipynb)                                                                       | [Validation](#3-validation) |
-| [`4_grp-variogram.ipynb`](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/4_grp-variogram.ipynb)                                                                       | [Functional organization](#4-functional-organization) |
+| [`4-1_grp-wholebrain-variogram.ipynb`](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/4-1_grp-wholebrain-variogram.ipynb)                                                                       | [Whole-brain functional organization](#4-1-whole-brain-functional-organization) |
+| [`4-2_grp-vertex-wise-variogram.ipynb`](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/4-2_grp-vertex-wise-variogram.ipynb)                                                                       | [Vertex-wise functional organization](#4-2-vertex-wise-functional-organization) |
+
 
 ## [1-1. Laplacian streamlines and AFD estimation](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/1-1_tutorial_csd.sh)
 ### Diffusion analysis of the SWM using constrained spherical deconvolution (CSD)
@@ -51,9 +53,11 @@
 * Compute the angles between Laplacian streamlines and radially or tangentially oriented fiber pathways reconstructed using tractography at different SWM depths.
 * Analyze angular differences separately in gyral and sulcal regions to assess the anatomical validity of the surface-based fiber separation framework.
 
-## [4. Functional organization](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/4_grp-variogram.ipynb)
-### Variogram analysis of functional organization and radial-tangential fiber predominance
+## [4-1. Whole-brain functional organization](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/4-1_grp-wholebrain-variogram.ipynb)
+### Whole-brain Variogram analysis of functional organization
 * Compute whole-brain variograms to characterize the spatial organization of functional similarity.
+
+## [4-2. Vertex-wise functional organization](https://github.com/y0ungeunii/radial-tangential_fiber_systems_in_swm/blob/main/notebooks/4-2_grp-vertex-wise-variogram.ipynb)
+### Vertex-wise Variogram analysis of functional organization and radial-tangential fiber predominance
 * Perform vertex-wise variogram analysis and generate maps of the variogram sill and range.
 * Compute a radial-tangential fiber predominance map and investigate its relationship with variogram metrics.
-
